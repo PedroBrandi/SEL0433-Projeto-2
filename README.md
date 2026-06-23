@@ -36,6 +36,21 @@ A descrição técnica de cada decisão de implementação, o detalhamento da co
 ## Imagens de simulação e compilação
 <img width="642" height="480" alt="Image" src="https://github.com/user-attachments/assets/c5927709-ec49-4a36-b8b9-3066e4a82317" />
 
-
 Simulação - Contagem rápida e LED acionado
+
+<img width="619" height="486" alt="Image" src="https://github.com/user-attachments/assets/8e1fdc5e-9af7-41f5-81f8-f372f02001df" />
+
+Simulação - Contagem lenta e LED desligado
+
+<img width="1341" height="209" alt="Image" src="https://github.com/user-attachments/assets/cc3ad9f6-a452-42ed-ad1b-71fcb21923fd" />
+
+Arquivo de Compilação - Projeto Final
+
+## Resultados obtidos
+
+O resultado obtido foi um aferidor de temperatura dependente da variação de um potenciômetro em ambiente de simulação. O dispositivo exibe seus resultados apenas durante o intervalo de contagem selecionado previamente pelo usuário. Ao final do tempo de contagem, a averiguação da temperatura é pausada, e só é permitida uma nova aferição com um novo início do cronômetro por meio dos botões responsáveis.
+
+Tais resultados são satisfatórios e cumprem todos os objetivos esperados da prática.
+
+
 
